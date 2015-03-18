@@ -10,9 +10,9 @@ Atom can also help with using emoji in commit message by installing [git-plus](h
 
 ## npm
 
-Create an `.npmrc` file and set the `message` value.
+Create an `.npmrc` [file](https://docs.npmjs.com/files/npmrc) and set the `message` value.
 ```ini
-message = ":bookmark: %2"
+message = ":bookmark: %s"
 ```
 
 ## SourceTree
