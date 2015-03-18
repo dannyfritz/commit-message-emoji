@@ -22,6 +22,10 @@ Tests | :rotating_light:
 General Update | :zap:
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
+## Using emoji is hard
+
+Here are [some ways](INTEGRATIONS.md) to more easily integrate emoji into your workflow.
+
 ## Comparison
 
 You can be the judge on which is easier to grok.
