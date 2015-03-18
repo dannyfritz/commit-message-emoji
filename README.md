@@ -15,16 +15,16 @@ Prepend every commit message with an emoji with this form:
 
 Commit Type | Emoji
 ----------  | -------------
-Initial Commit | :tada:
-Version Tag | :bookmark:
-New Feature | :sparkles:
-Bugfix | :bug:
-Metadata | :card_index:
-Documentation | :books:
-Performance | :racehorse:
-Cosmetic | :lipstick:
-Tests | :rotating_light:
-General Update | :zap:
+Initial Commit | :tada: `:tada:`
+Version Tag | :bookmark: `:bookmark:`
+New Feature | :sparkles: `:sparkles:`
+Bugfix | :bug: `:bug:`
+Metadata | :card_index: `:card_index:`
+Documentation | :books: `:books:`
+Performance | :racehorse: `:racehorse:`
+Cosmetic | :lipstick: `:lipstick:`
+Tests | :rotating_light: `:rotating_light:`
+General Update | :zap: `:zap:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
 ## Using Emoji is Hard! :rage:
