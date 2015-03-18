@@ -15,6 +15,6 @@ Create an `.npmrc` file and set the `message` value.
 message = ":bookmark: %2"
 ```
 
-## Sourcetree
+## SourceTree
 
 Not currently available. Vote for this [issue](https://jira.atlassian.com/browse/SRCTREEWIN-3072) to ask for it.

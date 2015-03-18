@@ -22,7 +22,7 @@ Tests | :rotating_light:
 General Update | :zap:
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
-## Using emoji is hard
+## Using Emoji is Hard
 
 Here are [some ways](INTEGRATIONS.md) to more easily integrate emoji into your workflow.
 
@@ -32,7 +32,7 @@ You can be the judge on which is easier to grok.
 
 Example taken from [here](https://github.com/dannyfritz/funcdash/commits/master)
 
-### Commits without Emoji
+### Commits Without Emoji
 
 0.5.2
 
