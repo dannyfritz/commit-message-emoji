@@ -4,7 +4,7 @@ There are various ways to make inserting emojis easier.
 
 ## Atom Editor
 
-Install packages for [autocomplete-plus](https://atom.io/packages/autocomplete-plus) and [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
+Install package for [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
 
 Atom can also help with using emoji in commit message by installing [git-plus](https://atom.io/packages/git-plus)
 
