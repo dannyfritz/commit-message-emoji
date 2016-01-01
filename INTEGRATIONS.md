@@ -8,6 +8,10 @@ Install packages for [autocomplete-plus](https://atom.io/packages/autocomplete-p
 
 Atom can also help with using emoji in commit message by installing [git-plus](https://atom.io/packages/git-plus)
 
+## Sublime Text
+
+Install package for [GithubEmoji](https://github.com/akatopo/GithubEmoji).
+
 ## npm
 
 Create an `.npmrc` [file](https://docs.npmjs.com/files/npmrc) and set the `message` value.
