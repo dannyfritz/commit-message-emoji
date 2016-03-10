@@ -25,6 +25,7 @@ Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
 Tests | :rotating_light: `:rotating_light:`
 General Update | :zap: `:zap:`
+Deprecation | :poop: `:poop:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
 ## Using Emoji is Hard! :rage:
