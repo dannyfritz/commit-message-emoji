@@ -23,6 +23,7 @@ Metadata | :card_index: `:card_index:`
 Documentation | :books: `:books:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
+Tooling | :wrench: `:wrench:`
 Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
