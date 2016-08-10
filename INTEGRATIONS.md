@@ -2,6 +2,10 @@
 
 There are various ways to make inserting emojis easier.
 
+## OSX
+
+You can pull up the emoji keyboard by hitting <kbd>^</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
+
 ## Atom Editor
 
 Install package for [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
