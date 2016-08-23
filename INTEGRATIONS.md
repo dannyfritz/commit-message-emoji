@@ -6,6 +6,12 @@ There are various ways to make inserting emojis easier.
 
 You can pull up the emoji keyboard by hitting <kbd>^</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
 
+## Windows 10
+
+Right click on your taskbar and enable "show touch keyboard button".
+Click on the keyboard that is next to your taskbar clock.
+Click on the smile face to find and insert emoji.
+
 ## Atom Editor
 
 Install package for [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
