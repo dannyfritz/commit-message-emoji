@@ -20,6 +20,7 @@ Version Tag | :bookmark: `:bookmark:`
 New Feature | :sparkles: `:sparkles:`
 Bugfix | :bug: `:bug:`
 Metadata | :card_index: `:card_index:`
+Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
