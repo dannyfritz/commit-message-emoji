@@ -36,3 +36,12 @@ Not currently available. Vote for this [issue](https://jira.atlassian.com/browse
 ## Git cli included with g3l
 
 Install a cli tool which name g3l, you can push your commits without think as well.
+```
+npm i -g g3l
+```
+
+```
+g3l -m "Init"
+```
+
+![Demo](https://github.com/svtek/g3l/blob/master/images/init.png)
