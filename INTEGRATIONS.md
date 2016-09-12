@@ -32,3 +32,7 @@ message = ":bookmark: %s"
 ## SourceTree
 
 Not currently available. Vote for this [issue](https://jira.atlassian.com/browse/SRCTREEWIN-3072) to ask for it.
+
+## Git cli included with g3l
+
+Install a cli tool which name g3l, you can push your commits without think as well.
