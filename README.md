@@ -28,6 +28,8 @@ Tooling | :wrench: `:wrench:`
 Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
+Upgrading Dependencies | :arrow_up: `:arrow_up:`
+Downgrading Dependencies | :arrow_down: `:arrow_down:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
 ## Using Emoji is Hard! :rage:
