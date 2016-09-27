@@ -6,27 +6,52 @@ So let's celebrate each and every commit with a corresponding emoji! :smile:
 Oh, and it can also help with glancing over commit messages to figure out
 what kind of changes have been made. :smirk:
 
+These are just guidelines, not rules, use your best judgment and feel free to propose changes to this document in a pull request.
+
 ## Usage
 
 Prepend every commit message with an emoji with this form:
 `:emoji: commit message`.
 
+## Git Commit Messages
+
+* Use the present tense ("Add feature" not "Added feature")
+* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+* Limit the first line to 72 characters or less
+* Reference issues and pull requests liberally
+* When only changing documentation, include `[ci skip]` in the commit description
+
 ## Which Emoji to Use? :confused:
+
+Consider starting the commit message with an applicable emoji:
 
 Commit Type | Emoji
 ----------  | -------------
 Initial Commit | :tada: `:tada:`
 Version Tag | :bookmark: `:bookmark:`
 New Feature | :sparkles: `:sparkles:`
-Bugfix | :bug: `:bug:`
 Metadata | :card_index: `:card_index:`
 Documentation | :books: `:books:`
-Performance | :racehorse: `:racehorse:`
+Writing docs | :memo: `:memo:`
 Cosmetic | :lipstick: `:lipstick:`
 Tooling | :wrench: `:wrench:`
-Tests | :rotating_light: `:rotating_light:`
 Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
+Bugfix | :bug: `:bug:`
+Fixing something on Linux | :penguin: `:penguin:`
+Fixing something on macOS | :apple: `:apple:`
+Fixing something on Windows | :checkered_flag: `:checkered_flag:`
+Improving the format/structure of the code | :art: `:art:` 
+Improving performance | :racehorse: `:racehorse:`
+Plugging memory leaks | :non-potable_water: `:non-potable_water:`
+Removing code or files | :fire: `:fire:`
+Tests | :rotating_light: `:rotating_light:`
+Adding tests | :white_check_mark: `:white_check_mark:`
+Fixing the CI build | :green_heart: `:green_heart:`
+Dealing with security | :lock: `:lock:`
+Upgrading dependencies | :arrow_up: `:arrow_up:`
+Downgrading dependencies | :arrow_down: `:arrow_down:`
+Removing linter warnings | :shirt: `:shirt:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
 ## Using Emoji is Hard! :rage:
@@ -38,6 +63,7 @@ Here are [some ways](INTEGRATIONS.md) to more easily integrate emoji into your w
 You can be the judge on which is easier to grok.
 
 Example taken from [here](https://github.com/dannyfritz/funcdash/commits/master)
+And from guidelines for contributing to [Atom](https://github.com/atom)
 
 ### Commits Without Emoji :anguished:
 
