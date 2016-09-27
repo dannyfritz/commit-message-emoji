@@ -29,6 +29,8 @@ Commit Type | Emoji
 ----------  | -------------
 Initial Commit | :tada: `:tada:`
 Version Tag | :bookmark: `:bookmark:`
+Deployment | :rocket: `:rocket:`
+Release | :shipit: `:shipit:`
 New Feature | :sparkles: `:sparkles:`
 Metadata | :card_index: `:card_index:`
 Documentation | :books: `:books:`
@@ -52,6 +54,7 @@ Dealing with security | :lock: `:lock:`
 Upgrading dependencies | :arrow_up: `:arrow_up:`
 Downgrading dependencies | :arrow_down: `:arrow_down:`
 Removing linter warnings | :shirt: `:shirt:`
+Translation | :globe_with_meridians: `:globe_with_meridians:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
 ## Using Emoji is Hard! :rage:
