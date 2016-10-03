@@ -22,6 +22,7 @@ Bugfix | :bug: `:bug:`
 Metadata | :card_index: `:card_index:`
 Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
+Internationalization | :globe_with_meridians: `:globe_with_meridians:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
 Tooling | :wrench: `:wrench:`
