@@ -22,6 +22,12 @@ Atom can also help with using emoji in commit message by installing [git-plus](h
 
 Install package for [GithubEmoji](https://github.com/akatopo/GithubEmoji).
 
+## Vim 
+
+Install package for [Vim-emoji](https://github.com/junegunn/vim-emoji#installation).
+
+Add `set completefunc=emoji#complete` to `.vimrc` and then run emoji completion with `CTRL-X CTRL-U`
+
 ## npm
 
 Create an `.npmrc` [file](https://docs.npmjs.com/files/npmrc) and set the `message` value.
