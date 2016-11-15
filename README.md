@@ -24,6 +24,7 @@ Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
 Internationalization | :globe_with_meridians: `:globe_with_meridians:`
 jp,kr,cn,us,fr,es,it,ru,gb,uk,de... | :jp: :kr: :cn: :us: :fr: :es: :it: :ru: :gb: :uk: :de:
+Merge | :eyes: `:eyes:`
 Performance | :racehorse: `:racehorse:`
 Cosmetic | :lipstick: `:lipstick:`
 Tooling | :wrench: `:wrench:`
