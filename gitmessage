@@ -1,0 +1,19 @@
+
+# Commit Type    | Emoji
+# ----------     | -------------
+# Initial Commit | :tada: `:tada:`
+# Version Tag    | :bookmark: `:bookmark:`
+# New Feature    | :sparkles: `:sparkles:`
+# Bugfix         | :bug: `:bug:`
+# Metadata       | :card_index: `:card_index:`
+# Refactoring    | :package: `:package:`
+# Documentation  | :books: `:books:`
+# Merge          | :eyes: `:eyes:`
+# Performance    | :racehorse: `:racehorse:`
+# Cosmetic       | :lipstick: `:lipstick:`
+# Tooling        | :wrench: `:wrench:`
+# Tests          | :rotating_light: `:rotating_light:`
+# Deprecation    | :poop: `:poop:`
+# Work In Progress (WIP) | :construction: `:construction:`
+# Internationalization   | :globe_with_meridians: `:globe_with_meridians:`
+# jp,kr,cn,us,fr,es,it,ru,gb,uk,de... | :jp: :kr: :cn: :us: :fr: :es: :it: :ru: :gb: :uk: :de:
