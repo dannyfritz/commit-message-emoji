@@ -20,7 +20,7 @@ Version Tag | :bookmark: `:bookmark:`
 New Feature | :sparkles: `:sparkles:`
 Bugfix | :bug: `:bug:`
 Metadata | :card_index: `:card_index:`
-Refactoring | :package: `:package:`
+Refactoring | :recycle: `:recycle:`
 Documentation | :books: `:books:`
 Internationalization | :globe_with_meridians: `:globe_with_meridians:`
 Performance | :racehorse: `:racehorse:`
