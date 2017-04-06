@@ -2,6 +2,17 @@
 
 There are various ways to make inserting emojis easier.
 
+## git
+
+Run
+```
+cp gitmessage ~/.gitmessage
+git config --global commit.template ~/.gitmessage
+```
+
+Try `git commit` now!
+
+
 ## OSX
 
 You can pull up the emoji keyboard by hitting <kbd>^</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
