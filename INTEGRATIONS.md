@@ -15,6 +15,7 @@ Click on the smile face to find and insert emoji.
 ## Atom Editor
 
 Install package for [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
+In the package settings, check the box for "Enable Unicode Emojis".
 
 Atom can also help with using emoji in commit message by installing [git-plus](https://atom.io/packages/git-plus)
 
@@ -32,9 +33,5 @@ Add `set completefunc=emoji#complete` to `.vimrc` and then run emoji completion 
 
 Create an `.npmrc` [file](https://docs.npmjs.com/files/npmrc) and set the `message` value.
 ```ini
-message = ":bookmark: %s"
+message = "🔖 %s"
 ```
-
-## SourceTree
-
-Not currently available. Vote for this [issue](https://jira.atlassian.com/browse/SRCTREEWIN-3072) to ask for it.
