@@ -20,7 +20,7 @@ For commits with multiple types of messages, use multiple lines:
 ## Which Emoji to Use? ❓
 
 Commit Type | Emoji | Colons
-----------  | -----
+----------  | ----- |  ------
 Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | :tada:
 Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | :bookmark:
 New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | :sparkles:
