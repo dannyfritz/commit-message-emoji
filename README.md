@@ -8,10 +8,10 @@ what kind of changes have been made. 😏
 
 ## Usage
 
-Prepend every commit message with an emoji with this form :
+Prepend every commit message with an emoji with this form:
 `<emoji> commit message`.
 
-For commits with multiple types of messages, use multiple lines :
+For commits with multiple types of messages, use multiple lines:
 ```
 <emoji> commit message
 <emoji2> commit message2
