@@ -8,10 +8,10 @@ what kind of changes have been made. 😏
 
 ## Usage
 
-Prepend every commit message with an emoji with this form:
+Prepend every commit message with an emoji with this form :
 `<emoji> commit message`.
 
-For commits with multiple types of messages, use multiple lines:
+For commits with multiple types of messages, use multiple lines :
 ```
 <emoji> commit message
 <emoji2> commit message2
@@ -21,20 +21,20 @@ For commits with multiple types of messages, use multiple lines:
 
 Commit Type | Emoji | Colons
 ----------  | ----- |  ------
-Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | &#58;tada&#58;
-Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | &#58;bookmark&#58;
-New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | &#58;sparkles&#58;
-Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | &#58;bug&#58;
-Metadata | [📇 Card Index](http://emojipedia.org/card-index/) | &#58;card_index&#58;
-Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/) | &#58;recycle&#58;
-Documentation | [📚 Books](http://emojipedia.org/books/) | &#58;books&#58;
-Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | &#58;globe_with_meridians&#58;
-Performance | [🐎 Horse](http://emojipedia.org/horse/) | &#58;racehorse&#58;
-Cosmetic | [💄 Lipstick](http://emojipedia.org/lipstick/) | &#58;lipstick&#58;
-Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | &#58;wrench&#58; 
-Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | &#58;rotating_light&#58;
-Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | &#58;poop&#58;
-Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | &#58;construction&#58;
+Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/) | : tada :
+Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/) | : bookmark :
+New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/) | : sparkles :
+Bugfix | [🐛 Bug](http://emojipedia.org/bug/) | : bug :
+Metadata | [📇 Card Index](http://emojipedia.org/card-index/) | : card_index :
+Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/) | : recycle :
+Documentation | [📚 Books](http://emojipedia.org/books/) | : books :
+Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/) | : globe_with_meridians :
+Performance | [🐎 Horse](http://emojipedia.org/horse/) | : racehorse :
+Cosmetic | [💄 Lipstick](http://emojipedia.org/lipstick/) | : lipstick :
+Tooling | [🔧 Wrench](http://emojipedia.org/wrench/) | : wrench:  
+Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/) | : rotating_light :
+Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/) | : poop :
+Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/) | : construction :
 
 ## Using Emoji is Hard! 😡
 
