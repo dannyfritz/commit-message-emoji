@@ -4,7 +4,7 @@ There are various ways to make inserting emojis easier.
 
 ## OSX
 
-You can pull up the emoji keyboard by hitting <kbd>^</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
+You can pull up the emoji keyboard by hitting <kbd>ctrl</kbd>+<kbd>⌘</kbd>+<kbd>space</kbd>
 
 ## Windows 10
 
