@@ -30,7 +30,7 @@ Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/bl
 Documentation | [📚 Books](http://emojipedia.org/books/)
 Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/)
 Performance | [🐎 Horse](http://emojipedia.org/horse/)
-Cosmetic | [💄 Lipstick](http://emojipedia.org/lipstick/)
+Cosmetic | [🎨 Artist Palette](http://emojipedia.org/artist-palette/)
 Tooling | [🔧 Wrench](http://emojipedia.org/wrench/)
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/)
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/)
