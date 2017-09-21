@@ -38,10 +38,11 @@ message = "🔖 %s"
 
 ## Emacs
 
-You can install [emoji-cheat-sheet-plus](https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus) and run:
+Install [emoji-cheat-sheet-plus](https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus).
+
+Bring up the emoji buffer with:
 
 ```
 M-x emoji-cheat-sheet-plus-insert
 ```
 
-to brin up the emoji buffer.
