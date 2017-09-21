@@ -35,3 +35,13 @@ Create an `.npmrc` [file](https://docs.npmjs.com/files/npmrc) and set the `messa
 ```ini
 message = "🔖 %s"
 ```
+
+## Emacs
+
+You can install [emoji-cheat-sheet-plus](https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus) and run:
+
+```
+M-x emoji-cheat-sheet-plus-insert
+```
+
+to brin up the emoji buffer.
