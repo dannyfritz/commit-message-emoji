@@ -31,7 +31,7 @@ Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/bl
 Documentation | [📚 Books](http://emojipedia.org/books/)
 Internationalization | [🌐 Globe With Meridians](http://emojipedia.org/globe-with-meridians/)
 Accessibility | [♿ Wheelchair](https://emojipedia.org/wheelchair-symbol/)
-Performance | [🐎 Horse](http://emojipedia.org/horse/)
+Performance | [📈 Chart Increasing](https://emojipedia.org/chart-with-upwards-trend/)
 Cosmetic | [🎨 Artist Palette](http://emojipedia.org/artist-palette/)
 Tooling | [🔧 Wrench](http://emojipedia.org/wrench/)
 Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-revolving-light/)
