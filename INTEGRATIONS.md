@@ -8,9 +8,7 @@ You can pull up the emoji keyboard by hitting <kbd>ctrl</kbd>+<kbd>⌘</kbd>+<kb
 
 ## Windows 10
 
-Right click on your taskbar and enable "show touch keyboard button".
-Click on the keyboard that is next to your taskbar clock.
-Click on the smile face to find and insert emoji.
+You can pull up the emoji keyboard by hitting <kbd>Win</kbd>+<kbd>.</kbd>
 
 ## Atom Editor
 
