@@ -10,6 +10,10 @@ You can pull up the emoji keyboard by hitting <kbd>ctrl</kbd>+<kbd>⌘</kbd>+<kb
 
 You can pull up the emoji keyboard by hitting <kbd>Win</kbd>+<kbd>.</kbd>
 
+## Gnome Shell
+
+You can show a list of emoji to copy to your system clipboard using the [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) Gnome extension.
+
 ## Atom Editor
 
 Install package for [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis).
