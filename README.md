@@ -24,7 +24,7 @@ Commit Type | Emoji
 Initial Commit | [🎉 Party Popper](http://emojipedia.org/party-popper/)
 Version Tag | [🔖 Bookmark](http://emojipedia.org/bookmark/)
 New Feature | [✨ Sparkles](http://emojipedia.org/sparkles/)
-Bugfix | [🐛 Bug](http://emojipedia.org/bug/)
+Bugfix | [🐞 Bug](http://emojipedia.org/lady-beetle/)
 Security Fix | [🔒 Lock](https://emojipedia.org/lock/)
 Metadata | [📇 Card Index](http://emojipedia.org/card-index/)
 Refactoring | [♻️ Black Universal Recycling Symbol](http://emojipedia.org/black-universal-recycling-symbol/)
