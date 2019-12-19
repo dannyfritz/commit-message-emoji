@@ -1,3 +1,4 @@
+INTEGRATIONS.md
 # Integrations
 
 There are various ways to make inserting emojis easier.
