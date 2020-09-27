@@ -25,7 +25,7 @@ Launch the "Characters" application.
 
 ## Gnome Shell
 
-You can show a list of emoji to copy to your system clipboard using the [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) Gnome extension.
+You can show a list of emoji to copy to your system clipboard using the [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) Gnome extension. This extension [recognises commit message emoji labels](https://github.com/maoschanz/emoji-selector-for-gnome/pull/80) like 'refactor', 'version', 'wip'.
 
 ## Atom Editor
 
